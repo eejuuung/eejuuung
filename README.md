@@ -1,4 +1,12 @@
-## Hi there 👋
+## 안녕? 👋
+
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/eejuuung"
+  width="600"
+  height="300"
+/>
+</a>
 
 <!--
 **eejuuung/eejuuung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
